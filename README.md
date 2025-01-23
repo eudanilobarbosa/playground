@@ -1,6 +1,6 @@
 # Cypress@13.15.0 + Playground - Versão 2.1.2
 
-Repositório do projeto de testes End-to-end (E2E) feitos com **Cypress** :green_heart: para o web app de demonstração: *Mark L - Gerenciador de Tarefas*.
+Projeto de testes automatizados para Web, Microserviços e até Mobile, utilizando **Cypress** :green_heart:, JavaScript e Node.js (do ZERO ao avançado) como parte do curso *Cypress Skills* de Fernando Papito, abrangendo os módulos 1 e 2: Cypress Playground e Hacks & Trade-offs.
 
 ## IDE utilizada nesse projeto
 
